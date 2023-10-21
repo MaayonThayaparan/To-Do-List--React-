@@ -1,3 +1,35 @@
+# To-do List 
+
+## Description
+
+This is a simple react app that displays a to-do list where you can add, edit, and delete tasks. 
+
+## Getting Started
+
+### Dependencies
+- Tested on Windows 10
+- Used NPM to install packages required to run server. Download at: https://nodejs.org/en/download
+- Tested on VSCode
+
+### Installation
+- Download Node.JS and NPM: https://nodejs.org/en/download
+- Download project from GitHub
+- Open project folder in VSCode
+- Open a new terminal (Terminal --> New Termainl)
+- Ensure you are in the project folder
+- Run the following command to install all the packages that are required for running the server:
+  npm install --save -s react react-dom react-scripts web-vitals
+
+### Executing the Program
+- Open project folder in VSCode
+- Open a new terminal (Terminal --> New Termainl)
+- Start the server using the below command in the terminal:
+  npm start
+- This will launch the webiste. You can do the following:
+     - Add new item to the to-do list
+     - Edit an existing item
+     - Delete an existing item
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
