@@ -17,14 +17,14 @@ This is a simple React app that displays a to-do list where you can add, edit, a
 - Open project folder in VSCode
 - Open a new terminal (Terminal --> New Termainl)
 - Ensure you are in the project folder
-- Run the following command to install all the packages that are required for running the server:
-  npm install --save -s react react-dom react-scripts web-vitals
+- Run the following command to install all the packages that are required for running the server (without start and end quotes):
+  "npm install --save -s react react-dom react-scripts web-vitals"
 
 ### Executing the Program
 - Open project folder in VSCode
 - Open a new terminal (Terminal --> New Termainl)
-- Start the server using the below command in the terminal:
-  npm start
+- Start the server using the below command in the terminal (without start and end quotes):
+  "npm start"
 - This will launch the webiste. You can do the following:
      - Add new item to the to-do list
      - Edit an existing item
