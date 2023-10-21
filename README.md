@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a simple react app that displays a to-do list where you can add, edit, and delete tasks. 
+This is a simple React app that displays a to-do list where you can add, edit, and delete tasks. 
 
 ## Getting Started
 
