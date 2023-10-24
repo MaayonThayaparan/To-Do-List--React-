@@ -15,7 +15,7 @@ This is a simple React app that displays a to-do list where you can add, edit, a
 - Download Node.JS and NPM: https://nodejs.org/en/download
 - Download project from GitHub
 - Open project folder in VSCode
-- Open a new terminal (Terminal --> New Termainl)
+- Open a new terminal (Terminal --> New Terminal)
 - Ensure you are in the project folder
 - Run the following command to install all the packages that are required for running the server (without start and end quotes):
   "npm install --save -s react react-dom react-scripts web-vitals"
