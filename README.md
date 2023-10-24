@@ -4,6 +4,8 @@
 
 This is a simple React app that displays a to-do list where you can add, edit, and delete tasks. 
 
+![image](https://github.com/MaayonThayaparan/ToDoList-React/assets/43158629/3b46c090-95af-485e-9de4-b5dab00b0e02)
+
 ## Getting Started
 
 ### Dependencies
@@ -14,15 +16,14 @@ This is a simple React app that displays a to-do list where you can add, edit, a
 ### Installation
 - Download Node.JS and NPM: https://nodejs.org/en/download
 - Download project from GitHub
-- Open project folder in VSCode
 - Open a new terminal (Terminal --> New Terminal)
 - Ensure you are in the project folder
 - Run the following command to install all the packages that are required for running the server (without start and end quotes):
   "npm install --save -s react react-dom react-scripts web-vitals"
 
 ### Executing the Program
-- Open project folder in VSCode
 - Open a new terminal (Terminal --> New Termainl)
+- Navigate to project folder
 - Start the server using the below command in the terminal (without start and end quotes):
   "npm start"
 - This will launch the webiste. You can do the following:
